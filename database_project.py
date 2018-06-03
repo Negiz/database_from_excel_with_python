@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#this import makes this co
+
 from __future__ import print_function
 import mysql.connector as sql
 from mysql.connector import errorcode
